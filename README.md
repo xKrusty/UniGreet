@@ -27,4 +27,3 @@
 ## WIP
 * C Version
 * add ASCII Charset
->>>>>>> test
